@@ -1,6 +1,23 @@
 {
   "name": "tufud-material-test-library",
   "version": "0.0.1",
+  "description": "libreria de componentes custoen de test para tufud.co",
+  "keywords": [
+    "custom",
+    "test",
+    "library"
+  ],
+  "homepage": "https://github.com/matiasjgelpi/tufud-test-library",
+  "bugs": {
+    "url": "https://github.com/matiasjgelpi/tufud-test-library/issues",
+    "email": "matiasjgelpi@gmail.com"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Matias Gelpi",
+    "email": "matiasjgelpi@gmail.com",
+    "url": "https://github.com/matiasjgelpi"
+  },
   "peerDependencies": {
     "@angular/common": "^14.1.0",
     "@angular/core": "^14.1.0",
